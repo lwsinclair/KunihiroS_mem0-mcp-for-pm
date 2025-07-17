@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-kunihiros-mem0-mcp-for-pm-badge.png)](https://mseep.ai/app/mcp-mirror-kunihiros-mem0-mcp-for-pm)
+
 # mem0 MCP Server for project management
 
 mem0 MCP Server is a bridge between MCP Host applications and the mem0 cloud service, providing memory capabilities for MCP Host AI.
